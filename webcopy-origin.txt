@@ -1,0 +1,416 @@
+Uri: https://cdn4.telesco.pe/file/o7keqk_J-MLzrLKqcfE4UvYpmNvFqeB0uSHkjkhdVdknVBe8WwYzG3mtkqdYUMrD1_u_IYkKu12-odv3YaMMMfmmOfrYXUPexND0pdHEppFh3hZyS13MQSkpQz-N1E_ob2h_iFn2cKWT8dSg9NeLeKuUp2DoCkZ5UfB9hZ7ItU0K8zpgWgC48NSNGZBaXIZuNIN-zWp-4b_G5yoyvsPujpDv27hMfxsYuM8RpyimdgmNP9ZtleYVIgipOsd5gqG5kpGQypvMOWYQ2STJsQTzgoztE3VbvOGwWwp7nX9N22m1PC1h3rPOz7zwqNeEO7gR4DwA-Y2O1-A_Mg062HfxmQ.jpg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\file\o7keqk_J-MLzrLKqcfE4UvYpmNvFqeB0uSHkjkhdVdknVBe8WwYzG3mtkqdYUMrD1_u_IYkKu12-odv3YaMMMfmmOfrYXUPexND0pdHEppFh3hZyS13MQSkpQz-N1E_ob2h_iFn2cKWT8dSg9NeLeKuUp2DoCkZ5UfB9hZ7ItU0K8zpgWgC48NSNGZBaXIZuNIN-.jpg
+Content Type: image/jpeg
+
+Uri: https://t.me/antygrabli_bot
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\antygrabli_bot.html
+Content Type: text/html
+
+Uri: https://telegram.org/css/bootstrap.min.css?3
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://telegram.org/css/font-roboto.css?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\css\font-roboto.css
+Content Type: text/css
+
+Uri: https://telegram.org/css/telegram.css?256
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\css\telegram.css
+Content Type: text/css
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/fonts/Roboto/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\fonts\Roboto\KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+Content Type: application/octet-stream
+
+Uri: https://telegram.org/img/apple-touch-icon.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/app_icon_android.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\app_icon_android.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/app_icon_desktop.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\app_icon_desktop.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/app_icon_ios.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\app_icon_ios.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/app_icon_macos.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\app_icon_macos.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/app_icon_weba.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\app_icon_weba.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/app_icon_webk.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\app_icon_webk.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/app_icon_webz.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\app_icon_webz.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/back_to_top.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\back_to_top.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/back_to_top_1x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\back_to_top_1x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/blog/BlogLogo1x.png?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\blog\BlogLogo1x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/blog/BlogLogo2x.png?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\blog\BlogLogo2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/blog/BlogLogo3x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\blog\BlogLogo3x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/breadcrumb_divider.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\breadcrumb_divider.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/breadcrumb_divider_1x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\breadcrumb_divider_1x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/bullet.png?3
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\bullet.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/bullet_2x.png?3
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\bullet_2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/dropdown.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\dropdown.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/dropdown_1x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\dropdown_1x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/favicon-16x16.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/favicon-32x32.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/favicon.ico
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://telegram.org/img/iPhone6.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\iPhone6.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/link-icon.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\link-icon.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/macos.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\macos.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/macos_2x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\macos_2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/rc_icons.png?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\rc_icons.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/rc_icons_2x.png?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\rc_icons_2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/SiteAndroid.webp
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteAndroid.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/img/SiteAndroid_2x.webp
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteAndroid_2x.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/img/SiteAward.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteAward.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/SiteAward_2x.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteAward_2x.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/SiteDesktop.webp
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteDesktop.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/img/SiteDesktop_2x.webp
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteDesktop_2x.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/img/SiteIconAndroid.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteIconAndroid.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/SiteIconApple.svg
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteIconApple.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/SiteiOS.webp
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteiOS.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/img/SiteiOS_2x.webp
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteiOS_2x.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/img/SiteTDesktop.webp
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteTDesktop.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/img/SiteTDesktop_2x.webp
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\SiteTDesktop_2x.webp
+Content Type: image/webp
+
+Uri: https://telegram.org/img/tdirect.jpg?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tdirect.jpg
+Content Type: image/jpeg
+
+Uri: https://telegram.org/img/tdirect_2x.jpg?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tdirect_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://telegram.org/img/td_icons.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\td_icons.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/td_laptop.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\td_laptop.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/team-sprite.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\team-sprite.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/tgme/Arrow_1x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tgme\Arrow_1x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/tgme/Arrow_2x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tgme\Arrow_2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/tgme/embed_copy_2x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tgme\embed_copy_2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/tgme/pattern.svg?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tgme\pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/tgme/web_icon_2x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tgme\web_icon_2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/tl_arrow.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_arrow.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/tl_arrow_2x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_arrow_2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/tl_card_build.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_build.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_cloud.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_cloud.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_connect.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_connect.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_coordinate.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_coordinate.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_decentralized.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_decentralized.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_destruct.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_destruct.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_encrypt.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_encrypt.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_fast.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_fast.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_free.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_free.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_open.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_open.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_powerful.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_powerful.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_private.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_private.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_process.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_process.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_secure.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_secure.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_send.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_send.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_store.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_store.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_synchronize.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_synchronize.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/tl_card_wecandoit.gif
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\tl_card_wecandoit.gif
+Content Type: image/gif
+
+Uri: https://telegram.org/img/twitter.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\twitter.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/twitter_2x.png
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\twitter_2x.png
+Content Type: image/png
+
+Uri: https://telegram.org/img/website_icon.svg?4
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\website_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/Widget_Comments.svg?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\Widget_Comments.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/Widget_Login.svg?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\Widget_Login.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/Widget_Post.svg?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\Widget_Post.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/img/Widget_Share.svg?1
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\img\Widget_Share.svg
+Content Type: image/svg+xml
+
+Uri: https://telegram.org/js/tgwallpaper.min.js?3
+File Name: C:\Users\user\Documents\антиграбли\код страницы\t.me\js\tgwallpaper.min.js
+Content Type: application/javascript
+
