@@ -110,10 +110,12 @@ if (window.matchMedia) {
         el.addEventListener('click', function (e) {
           // пиксель заблокирован (adblock и т.п.) → работаем как обычная ссылка
           if (typeof window.fbq !== 'function') return;
+          // модификаторы (Ctrl/Cmd/Shift, средняя кнопка) — даём браузеру отработать нативно
+          if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0) return;
           e.preventDefault();
           fbq('track', 'Lead');
           // даём запросу уйти, прежде чем страница закроется переходом
-          setTimeout(function () { window.location.href = el.href; }, 300);
+          setTimeout(function () { window.location.href = el.href; }, 700);
         });
       });
     })();
