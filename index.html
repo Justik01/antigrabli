@@ -23,7 +23,6 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
 <!-- End Meta Pixel Code -->
 
     <script>location.hash=''</script>
-    <script>try{if(window.parent!=null&&window!=window.parent){window.parent.postMessage(JSON.stringify({eventType:'web_app_open_tg_link',eventData:{path_full:"\/antygrabli_bot"}}),'https://web.telegram.org');}}catch(e){}</script>
     <meta property="og:title" content="Анти-грабли. Юманов.">
 <meta property="og:image" content="avatar.jpg">
 <meta property="og:site_name" content="Telegram">
@@ -76,7 +75,7 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
       <div class="tgme_body_wrap">
         <div class="tgme_page">
           <div class="tgme_page_photo">
-  <a href="tg://resolve?domain=antygrabli_bot"><img class="tgme_page_photo_image" src="avatar.jpg"></a>
+  <a href="https://t.me/antygrabli_bot"><img class="tgme_page_photo_image" src="avatar.jpg"></a>
 </div>
 <div class="tgme_page_title"><span dir="auto">Анти-грабли. Юманов.</span></div>
 <div class="tgme_page_extra">
@@ -85,7 +84,7 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
 
 <div class="tgme_page_description ">Твой проводник в проект «Анти-грабли». Проверь себя, вступай в сообщество и бери максимум от программы&#33;</div>
 <div class="tgme_page_action">
-  <a class="tgme_action_button_new shine" href="tg://resolve?domain=antygrabli_bot">Start Bot</a>
+  <a class="tgme_action_button_new shine" id="start-bot" href="https://t.me/antygrabli_bot" rel="noopener">Start Bot</a>
 </div>
 <!-- WEBOGRAM_BTN -->
 <!-- PRIVACY_BTN -->
@@ -103,39 +102,8 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
 
     <script type="text/javascript">
 
-var protoUrl = "tg:\/\/resolve?domain=antygrabli_bot";
-if (false) {
-  var iframeContEl = document.getElementById('tgme_frame_cont') || document.body;
-  var iframeEl = document.createElement('iframe');
-  iframeContEl.appendChild(iframeEl);
-  var pageHidden = false;
-  window.addEventListener('pagehide', function () {
-    pageHidden = true;
-  }, false);
-  window.addEventListener('blur', function () {
-    pageHidden = true;
-  }, false);
-  if (iframeEl !== null) {
-    iframeEl.src = protoUrl;
-  }
-  !false && setTimeout(function() {
-    if (!pageHidden) {
-      window.location = protoUrl;
-    }
-  }, 2000);
-}
-else if (protoUrl) {
-  setTimeout(function() {
-    window.location = protoUrl;
-  }, 100);
-  // нет приложения → веб-версия через 2.5 с, если вкладка не ушла в фон
-  var appOpened = false;
-  document.addEventListener('visibilitychange', function () { if (document.hidden) appOpened = true; });
-  window.addEventListener('blur', function () { appOpened = true; });
-  setTimeout(function() {
-    if (!appOpened) window.location = 'https://t.me/antygrabli_bot';
-  }, 2500);
-}
+// Автопереход в Telegram отключён: страница остаётся открытой,
+// пока пользователь сам не нажмёт кнопку «Start Bot».
 
 var tme_bg = document.getElementById('tgme_background');
 if (tme_bg) {
