@@ -53,7 +53,7 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
       <div class="tgme_body_wrap">
         <div class="tgme_page">
           <div class="tgme_page_photo">
-  <a id="start-avatar" href="https://t.me/antygrabli_bot"><img class="tgme_page_photo_image" src="avatar.jpg"></a>
+  <a href="https://t.me/antygrabli_bot"><img class="tgme_page_photo_image" src="avatar.jpg"></a>
 </div>
 <div class="tgme_page_title"><span dir="auto">Анти-грабли. Юманов.</span></div>
 <div class="tgme_page_extra">
@@ -62,7 +62,7 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
 
 <div class="tgme_page_description ">Твой проводник в проект «Анти-грабли». Проверь себя, вступай в сообщество и бери максимум от программы&#33;</div>
 <div class="tgme_page_action">
-  <a class="tgme_action_button_new shine" id="start-bot" href="https://t.me/antygrabli_bot" rel="noopener">Start Bot</a>
+  <a class="tgme_action_button_new shine" href="https://t.me/antygrabli_bot" rel="noopener">Start Bot</a>
 </div>
 <!-- BUTTONS -->
         </div>
@@ -99,26 +99,6 @@ if (window.matchMedia) {
 }
 
     
-    </script>
-
-    <!-- Meta Pixel: событие Lead по клику на кнопку Start Bot и на аватарку -->
-    <script>
-    (function () {
-      ['start-bot', 'start-avatar'].forEach(function (id) {
-        var el = document.getElementById(id);
-        if (!el) return;
-        el.addEventListener('click', function (e) {
-          // пиксель заблокирован (adblock и т.п.) → работаем как обычная ссылка
-          if (typeof window.fbq !== 'function') return;
-          // модификаторы (Ctrl/Cmd/Shift, средняя кнопка) — даём браузеру отработать нативно
-          if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0) return;
-          e.preventDefault();
-          fbq('track', 'Lead');
-          // даём запросу уйти, прежде чем страница закроется переходом
-          setTimeout(function () { window.location.href = el.href; }, 700);
-        });
-      });
-    })();
     </script>
   </body>
 </html>
