@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Telegram: Launch @antygrabli_bot</title>
+    <title>Анти-грабли. Юманов.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Meta Pixel Code -->
 <script>
@@ -25,46 +25,24 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
     <script>location.hash=''</script>
     <meta property="og:title" content="Анти-грабли. Юманов.">
 <meta property="og:image" content="avatar.jpg">
-<meta property="og:site_name" content="Telegram">
 <meta property="og:description" content="Твой проводник в проект «Анти-грабли». Проверь себя, вступай в сообщество и бери максимум от программы&#33;">
 
 <meta property="twitter:title" content="Анти-грабли. Юманов.">
 <meta property="twitter:image" content="avatar.jpg">
-<meta property="twitter:site" content="@Telegram">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@Telegram">
 <meta name="twitter:description" content="Твой проводник в проект «Анти-грабли». Проверь себя, вступай в сообщество и бери максимум от программы&#33;
 ">
-<meta property="al:ios:app_store_id" content="686449807">
-<meta property="al:ios:app_name" content="Telegram Messenger">
-<meta property="al:ios:url" content="tg://resolve?domain=antygrabli_bot">
-
-<meta property="al:android:url" content="tg://resolve?domain=antygrabli_bot">
-<meta property="al:android:app_name" content="Telegram">
-<meta property="al:android:package" content="org.telegram.messenger">
-
-<meta name="twitter:app:name:iphone" content="Telegram Messenger">
-<meta name="twitter:app:id:iphone" content="686449807">
-<meta name="twitter:app:url:iphone" content="tg://resolve?domain=antygrabli_bot">
-<meta name="twitter:app:name:ipad" content="Telegram Messenger">
-<meta name="twitter:app:id:ipad" content="686449807">
-<meta name="twitter:app:url:ipad" content="tg://resolve?domain=antygrabli_bot">
-<meta name="twitter:app:name:googleplay" content="Telegram">
-<meta name="twitter:app:id:googleplay" content="org.telegram.messenger">
-<meta name="twitter:app:url:googleplay" content="https://t.me/antygrabli_bot">
-
-<meta name="apple-itunes-app" content="app-id=686449807, app-argument: tg://resolve?domain=antygrabli_bot">
     <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
-    <link rel="icon" type="image/svg+xml" href="https://telegram.org/img/website_icon.svg?4">
-<link rel="apple-touch-icon" sizes="180x180" href="https://telegram.org/img/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://telegram.org/img/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://telegram.org/img/favicon-16x16.png">
-<link rel="alternate icon" href="https://telegram.org/img/favicon.ico" type="image/x-icon" />
-    <link href="https://telegram.org/css/font-roboto.css?1" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/svg+xml" href="img/website_icon.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+<link rel="alternate icon" href="img/favicon.ico" type="image/x-icon" />
+    <link href="css/font-roboto.css" rel="stylesheet" type="text/css">
     <!--link href="/css/myriad.css" rel="stylesheet"-->
-    <link href="https://telegram.org/css/bootstrap.min.css?3" rel="stylesheet">
-    <link href="https://telegram.org/css/telegram.css?255" rel="stylesheet" media="screen">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet" media="screen">
   </head>
   <body class="no_transition">
       <div class="tgme_background_wrap">
@@ -86,8 +64,7 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
 <div class="tgme_page_action">
   <a class="tgme_action_button_new shine" id="start-bot" href="https://t.me/antygrabli_bot" rel="noopener">Start Bot</a>
 </div>
-<!-- WEBOGRAM_BTN -->
-<!-- PRIVACY_BTN -->
+<!-- BUTTONS -->
         </div>
         
       </div>
@@ -95,11 +72,11 @@ src="https://www.facebook.com/tr?id=1109255735055523&ev=PageView&noscript=1"
 
     <div id="tgme_frame_cont"></div>
 
-    <script src="https://telegram.org/js/tgwallpaper.min.js?3"></script>
+    <script src="js/tgwallpaper.min.js"></script>
 
     <script type="text/javascript">
 
-// Автопереход в Telegram отключён: страница остаётся открытой,
+// Автопереход отключён: страница остаётся открытой,
 // пока пользователь сам не нажмёт кнопку «Start Bot».
 
 var tme_bg = document.getElementById('tgme_background');
@@ -112,7 +89,6 @@ document.body.classList.remove('no_transition');
 
 function toggleTheme(dark) {
   document.documentElement.classList.toggle('theme_dark', dark);
-  window.Telegram && Telegram.setWidgetOptions({dark: dark});
 }
 if (window.matchMedia) {
   var darkMedia = window.matchMedia('(prefers-color-scheme: dark)');
